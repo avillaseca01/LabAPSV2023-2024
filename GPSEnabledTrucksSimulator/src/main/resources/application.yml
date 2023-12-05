@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    stream:
+      default-binder: kafka
+      kafka:
+        binder:
+          brokers:
+          - localhost:9092
+      bindings:
+        producer-out-0:
+          destination: "test"
+    function:
+      definition: "producer"
