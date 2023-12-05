@@ -1,0 +1,5 @@
+es\upm\dit\apsv\traceserver\TraceServerApplication.class
+es\upm\dit\apsv\traceserver\controller\TraceController.class
+es\upm\dit\apsv\traceserver\model\TransportationOrder.class
+es\upm\dit\apsv\traceserver\repository\TraceRepository.class
+es\upm\dit\apsv\traceserver\model\Trace.class

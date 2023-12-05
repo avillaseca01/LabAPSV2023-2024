@@ -1,0 +1,4 @@
+es\upm\dit\apsv\transportationorderserver\controller\TransportationOrderController.class
+es\upm\dit\apsv\transportationorderserver\TransportationOrderServerApplication.class
+es\upm\dit\apsv\transportationorderserver\model\TransportationOrder.class
+es\upm\dit\apsv\transportationorderserver\repository\TransportationOrderRepository.class
